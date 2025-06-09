@@ -4,7 +4,7 @@ This repository contains various C# code examples demonstrating different algori
 
 ## Files Overview
 
-- <mcfile name="ArraySum.cs" path="e:\c# Code\C# Coding\ArraySum.cs"></mcfile>: Calculates the sum of elements in an array.
+- [ArraySum.cs](e:\c# Code\C# Coding\ArraySum.cs): Calculates the sum of elements in an array.
 - <mcfile name="BinaryConversion.cs" path="e:\c# Code\C# Coding\BinaryConversion.cs"></mcfile>: Converts decimal numbers to binary using a stack.
 - <mcfile name="BinomialCoefficient.cs" path="e:\c# Code\C# Coding\BinomialCoefficient.cs"></mcfile>: Calculates the binomial coefficient using factorials.
 - <mcfile name="Butterfly1.cs" path="e:\c# Code\C# Coding\Butterfly1.cs"></mcfile>: Generates a butterfly pattern (Type 1) using asterisks and spaces.
