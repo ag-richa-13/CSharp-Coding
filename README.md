@@ -23,5 +23,9 @@ This repository contains various C# coding examples, demonstrating different pro
 - [NumSquare.cs](NumSquare.cs): Returns the square of a number.
 - [PrimeNumber.cs](PrimeNumber.cs): Checks if a number is prime and prints prime numbers up to N.
 - [PrintGreeting.cs](PrintGreeting.cs): Prints a greeting message.
+- [ReverseArray.cs](ReverseArray.cs): Reverses the elements of an array.
+- [SumAndProduct.cs](SumAndProduct.cs): Calculates the sum and product of array elements.
 - [SumOfTwoNumber.cs](SumOfTwoNumber.cs): Adds two numbers.
+- [SwapMaxAndMin.cs](SwapMaxAndMin.cs): Swaps the maximum and minimum elements in an array.
+- [UniqueInteger.cs](UniqueInteger.cs): Finds unique integers in an array.
 - [VowelCount.cs](VowelCount.cs): Counts the number of vowels in a string.
