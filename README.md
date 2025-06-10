@@ -17,6 +17,7 @@ This repository contains various C# coding examples, demonstrating different pro
 - [Factorial.cs](Factorial.cs): Calculates the factorial of a number.
 - [Fibonacci.cs](Fibonacci.cs): Generates Fibonacci sequence.
 - [HollowDiamond.cs](HollowDiamond.cs): Prints a hollow diamond pattern.
+- [Intersection.cs](Intersection.cs): Finds the intersection of two arrays.
 - [LinearSearch.cs](LinearSearch.cs): Implements a linear search algorithm.
 - [MaxNumInArray.cs](MaxNumInArray.cs): Finds the maximum number in an array.
 - [MaximumNumber.cs](MaximumNumber.cs): Finds the maximum of three numbers.
@@ -29,3 +30,8 @@ This repository contains various C# coding examples, demonstrating different pro
 - [SwapMaxAndMin.cs](SwapMaxAndMin.cs): Swaps the maximum and minimum elements in an array.
 - [UniqueInteger.cs](UniqueInteger.cs): Finds unique integers in an array.
 - [VowelCount.cs](VowelCount.cs): Counts the number of vowels in a string.
+
+### Leetcode Problems:
+
+- [Leetcode/349_Intersection.cs](Leetcode/349_Intersection.cs): Leetcode problem 349 - Intersection of Two Arrays.
+- [Leetcode/SingleNumber.cs](Leetcode/SingleNumber.cs): Leetcode problem - Single Number.
