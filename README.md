@@ -35,6 +35,7 @@ This repository contains various C# coding examples, demonstrating different pro
 ### Leetcode Problems:
 
 - [Leetcode/349_Intersection.cs](Leetcode/349_Intersection.cs): Leetcode problem 349 - Intersection of Two Arrays.
+- [Leetcode/ReverseString.cs](Leetcode/ReverseString.cs): Leetcode problem - Reverse String.
 - [Leetcode/SingleNumber.cs](Leetcode/SingleNumber.cs): Leetcode problem - Single Number.
 
 ## Important Definitions and Formulas:
@@ -53,3 +54,9 @@ This repository contains various C# coding examples, demonstrating different pro
 ### Factorial:
 - **Definition**: The product of all positive integers less than or equal to a given positive integer.
 - **Formula**: n! = n * (n-1) * (n-2) * ... * 1
+
+### Reverse String Logic:
+To reverse a string (represented as a character array `s`):
+1. Initialize a stack to store characters.
+2. Push each character from the input array `s` onto the stack.
+3. Pop characters from the stack and overwrite the original array `s` from the beginning. This will place the characters in reverse order.
