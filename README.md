@@ -24,6 +24,7 @@ This repository contains various C# coding examples, demonstrating different pro
 - [NumSquare.cs](NumSquare.cs): Returns the square of a number.
 - [PrimeNumber.cs](PrimeNumber.cs): Checks if a number is prime and prints prime numbers up to N.
 - [PrintGreeting.cs](PrintGreeting.cs): Prints a greeting message.
+- [RandomNumber.cs](RandomNumber.cs): Generates a random number.
 - [ReverseArray.cs](ReverseArray.cs): Reverses the elements of an array.
 - [SumAndProduct.cs](SumAndProduct.cs): Calculates the sum and product of array elements.
 - [SumOfTwoNumber.cs](SumOfTwoNumber.cs): Adds two numbers.
@@ -35,3 +36,16 @@ This repository contains various C# coding examples, demonstrating different pro
 
 - [Leetcode/349_Intersection.cs](Leetcode/349_Intersection.cs): Leetcode problem 349 - Intersection of Two Arrays.
 - [Leetcode/SingleNumber.cs](Leetcode/SingleNumber.cs): Leetcode problem - Single Number.
+
+## Important Definitions and Formulas:
+
+### Binomial Coefficient:
+- **Definition**: The number of ways to choose k items from a set of n items without replacement and without regard to the order of the items.
+- **Formula**: ( n!) / (k! * (n-k)!)
+
+### Fibonacci Sequence:
+- **Definition**: A series of numbers in which each number is the sum of the two preceding numbers. The first two numbers in the series are 0 and 1.
+- **Formula**: fib(n) = fib(n-1) + fib(n-2)
+
+### Celsius to Fahrenheit Conversion:
+- **Formula**: fahrenheit = (celsius * 9/5) + 32

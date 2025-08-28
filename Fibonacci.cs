@@ -4,25 +4,23 @@ using System;
 
 public class Fibonacci
 {
-     static int nthFibonacci(int n)
+     static int fib(int n)
      {
           if (n <= 1)
           {
                return n;
           }
-          return nthFibonacci(n - 1) + nthFibonacci(n - 2);
+          return fib(n - 1) + fib(n - 2);
      }
      public static void Main(string[] args)
      {
-          int n = 9;
-
-          Console.WriteLine("Fibonacci: " + nthFibonacci(n));
-          Console.Write("Fibonacci Series: ");
-          for (int i = 0; i <= n; i++)
+          int n = 8;
+          Console.Write(fib(n));
+          Console.WriteLine();
+          for (int i = 0; i < n; i++)
           {
-               Console.Write(nthFibonacci(i) + " ");
+               Console.Write(fib(i) + " ");
           }
-
      }
 }
 
