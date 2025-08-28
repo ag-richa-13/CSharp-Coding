@@ -49,3 +49,7 @@ This repository contains various C# coding examples, demonstrating different pro
 
 ### Celsius to Fahrenheit Conversion:
 - **Formula**: fahrenheit = (celsius * 9/5) + 32
+
+### Factorial:
+- **Definition**: The product of all positive integers less than or equal to a given positive integer.
+- **Formula**: n! = n * (n-1) * (n-2) * ... * 1
