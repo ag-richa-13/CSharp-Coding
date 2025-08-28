@@ -26,7 +26,9 @@ public class Fibonacci
      }
 }
 
-
+// What is Fibonacci Number?
+// Fibonacci series is a series of numbers in which each number is the sum of the two preceding numbers.
+// The first two numbers in the series are 0 and 1.
 
 /*
 Formula: fib(n) = fib(n-1) + fib(n-2)
